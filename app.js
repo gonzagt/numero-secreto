@@ -78,3 +78,4 @@ function reiniciarJuego() {
 iniciador();
 
 // Probando actualización en Git.
+// Merging branches.
