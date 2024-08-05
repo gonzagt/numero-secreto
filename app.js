@@ -78,5 +78,5 @@ function reiniciarJuego() {
 iniciador();
 
 // Probando actualización en Git.
-
+// testing línea 81.
 // Probando la actualización de estado.
