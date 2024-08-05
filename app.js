@@ -79,3 +79,5 @@ iniciador();
 
 // Probando actualización en Git.
 // Merging branches.
+// testing línea 81.
+// Probando la actualización de estado.
